@@ -1,2 +1,4 @@
 # Code-Formatter
-# RustFmt  Home: https://github.com/rust-lang/rustfmt
+# RustFmt
+Home:
+- source: https://github.com/rust-lang/rustfmt
